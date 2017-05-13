@@ -1,0 +1,4 @@
+.__paramMonitorMonitor a span {display: none;}
+.__paramMonitorMonitor a {position:relative;}
+.__paramMonitorMonitor a:hover span {display:block;position:absolute; width: auto;color: black; background-color:#FFFFCC; border: 1px solid #ccc;font: 10px Verdana, sans-serif; text-align: center;}
+.__paramMonitorMonitor a:hover {text-indent:0;}
